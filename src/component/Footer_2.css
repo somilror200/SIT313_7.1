@@ -1,0 +1,19 @@
+.footer2 {
+    background: linear-gradient(to right, #1E90FF, #87CEFA);
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .links {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .links a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
